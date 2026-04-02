@@ -100,3 +100,7 @@ config.json
 ################################
 config.development.json
 config.production.json
+
+# disallow docs directories anywhere in the repo
+/docs/
+**/docs/
